@@ -3,7 +3,9 @@ Curated list of awesome mac apps
 
 ## Creative and Ideas
 
+- [Camtasia](http://www.techsmith.com/camtasia.html) - is a screen recorder with some light duty video editing tools. 
 - [Mindnode](http://mindnode.com/) - is a great way to visualize ideas and brainstorm.  A good way to connect the dots.
+
 
 ## Utilities
 
