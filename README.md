@@ -11,6 +11,7 @@ Curated list of awesome mac apps
 
 - [A Better Finder Rename](http://www.publicspace.net/BetterRename/) - is a great way to mass rename files based on predetermined sorting and filtering, as well as complex regular expressions. 
 - [Better Snap Tool](http://blog.boastr.net/) - allows you to quickly resize windows with hotkeys. 
+- [CleanApp](http://www.syniumsoftware.com/cleanapp/) - is essentially a disk clean up and app un-install utility. 
 - [Cocktail](http://www.maintain.se/cocktail/) - is a utility to clear cache, fix permissions, adjust settings, and optimize OS X. 
 - [Divvy](http://mizage.com/divvy/) - is a nice compliment to Better Snap and it has a nice grid structure for arranging multiple windows.  
 - [iStat Menus](http://bjango.com/mac/istatmenus/) - is a system monitor that lives in your menubar. Useful for monitoring network traffic and speed, hard drive and cpu status, and apps using significant energy. 
