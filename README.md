@@ -17,6 +17,7 @@ Curated list of awesome mac apps
 - [Divvy](http://mizage.com/divvy/) - is a nice compliment to Better Snap and it has a nice grid structure for arranging multiple windows.  
 - [ExpanDrive](http://www.expandrive.com/) - is a good way to connect to S3, Google Drive, Dropbox, Box, OneDrive etc. without installing all the standalone apps. 
 - [iStat Menus](http://bjango.com/mac/istatmenus/) - is a system monitor that lives in your menubar. Useful for monitoring network traffic and speed, hard drive and cpu status, and apps using significant energy. 
+- [MacDropAny](http://www.zibity.com/macdropany.html) - allows you to sync local and external folders with symbolic links to services like Dropbox.
 - [Transmit](http://panic.com/transmit/) - makes transferring files between servers and cloud services an effortless process.  This is a great app for integrating with AWS. 
  
 
