@@ -10,7 +10,8 @@ Curated list of awesome mac apps
 - [A Better Finder Rename](http://www.publicspace.net/BetterRename/) - is a great way to mass rename files based on predetermined sorting and filtering, as well as complex regular expressions. 
 - [Better Snap Tool](http://blog.boastr.net/) - allows you to quickly resize windows with hotkeys. 
 - [Divvy](http://mizage.com/divvy/) - is a nice compliment to Better Snap and it has a nice grid structure for arranging multiple windows.  
-- [Transmit](http://panic.com/transmit/) - makes transferring files between servers and cloud services an effortless process.  This is a great app for integrating with AWS.  
+- [Transmit](http://panic.com/transmit/) - makes transferring files between servers and cloud services an effortless process.  This is a great app for integrating with AWS. 
+- [Cocktail](http://www.maintain.se/cocktail/) - is a utility to help you clear cache, fix permissions, adjust settings, and optimize OS X.  
 
 ## Developer Tools
 
