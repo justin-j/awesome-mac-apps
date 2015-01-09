@@ -22,8 +22,8 @@ Curated list of awesome mac apps
 ## Developer Tools
 
 - [BBEdit](http://www.barebones.com/products/bbedit/) - another minimalist text editor. 
-- [CodeKit](http://incident57.com/codekit/) - front-end code compiler, browser refresh, and ready to rock.
 - [Coda](http://www.panic.com/coda/) - front-end web code IDE. 
+- [CodeKit](http://incident57.com/codekit/) - front-end code compiler, browser refresh, and ready to rock.
 - [ColorSnapper](http://www.colorsnapper.com/) - is an easy-to-use app to find the precise color of any pixel on the screen.
 - [Sublime Text](http://www.sublimetext.com/) - is a great working text editor with lots of plugins and community support. 
 - [Tower](http://www.git-tower.com/) - is elegant and easy to use GUI for GIT. 
