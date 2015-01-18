@@ -31,7 +31,7 @@ Curated list of awesome mac apps
 - [Coda](http://www.panic.com/coda/) - front-end web code IDE. 
 - [CodeKit](http://incident57.com/codekit/) - front-end code compiler, browser refresh, and ready to rock.
 - [ColorSnapper](http://www.colorsnapper.com/) - is an easy-to-use app to find the precise color of any pixel on the screen.
-- [Icon Slate](http://kodlian.com/apps/icon-slate) - favicon in a couple clicks. 
+- [Icon Slate](http://kodlian.com/apps/icon-slate) - makes retina ready favicons in a couple clicks. 
 - [MAMP PRO](http://www.mamp.info/en/mamp-pro/) - is a good solution for developing and testing websites on your local machine. 
 - [Sublime Text](http://www.sublimetext.com/) - is a great working text editor with lots of plugins and community support. 
 - [Tower](http://www.git-tower.com/) - is elegant and easy to use GUI for GIT. 
