@@ -3,6 +3,7 @@ Curated list of awesome mac apps
 
 ## Creative and Ideas
 
+- [Audio Hijack](http://rogueamoeba.com/audiohijack/) - records audio from essentially any device.
 - [Camtasia](http://www.techsmith.com/camtasia.html) - is a screen recorder with some light duty video editing tools. 
 - [Mindnode](http://mindnode.com/) - is a great way to visualize ideas and brainstorm.  A good way to connect the dots.
 - [Sketch](http://www.bohemiancoding.com/sketch/) - lightweight web mock-up tool. 
@@ -23,7 +24,6 @@ Curated list of awesome mac apps
 - [SuperDuper!](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - is a great hard drive cloning and system recovery tool.
 - [Transmit](http://panic.com/transmit/) - makes transferring files between servers and cloud services an effortless process.  This is a great app for integrating with AWS. 
  
-
 
 ## Developer Tools
 
