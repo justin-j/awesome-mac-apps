@@ -5,6 +5,7 @@ Curated list of awesome mac apps
 
 - [Audio Hijack](http://rogueamoeba.com/audiohijack/) - records audio from essentially any device.
 - [Camtasia](http://www.techsmith.com/camtasia.html) - is a screen recorder with some light duty video editing tools. 
+- [Fission](http://rogueamoeba.com/fission/) - lossless audio editing. 
 - [Mindnode](http://mindnode.com/) - is a great way to visualize ideas and brainstorm.  A good way to connect the dots.
 - [Sketch](http://www.bohemiancoding.com/sketch/) - lightweight web mock-up tool. 
 - [VLC](http://www.videolan.org/vlc/index.html) - open source multimedia and video player. 
