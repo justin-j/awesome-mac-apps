@@ -9,6 +9,7 @@ Curated list of awesome mac apps
 - [Mindnode](http://mindnode.com/) - is a great way to visualize ideas and brainstorm.  A good way to connect the dots.
 - [Sketch](http://www.bohemiancoding.com/sketch/) - lightweight web mock-up tool. 
 - [VLC](http://www.videolan.org/vlc/index.html) - open source multimedia and video player. 
+- [xScope](http://xscopeapp.com/) - is engineered for measuring, inspecting, and fine tuning graphics.
 
 
 ## Utilities
