@@ -40,3 +40,5 @@ Curated list of awesome mac apps
 - [Tower](http://www.git-tower.com/) - is elegant and easy to use GUI for GIT. 
 
 ## Business
+
+- [Wizard](http://www.wizardmac.com/) - is a great compliment to a spreadsheet program to build predictive models and analyze data sets.
