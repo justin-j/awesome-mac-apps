@@ -7,6 +7,7 @@ Curated list of awesome mac apps
 - [Camtasia](http://www.techsmith.com/camtasia.html) - is a screen recorder with some light duty video editing tools. 
 - [Fission](http://rogueamoeba.com/fission/) - lossless audio editing. 
 - [Mindnode](http://mindnode.com/) - is a great way to visualize ideas and brainstorm.  A good way to connect the dots.
+- [PageLayers](http://www.pagelayers.com/) - is an app that will take a webpage and convert it into a layered PSD file.
 - [Sketch](http://www.bohemiancoding.com/sketch/) - lightweight web mock-up tool. 
 - [VLC](http://www.videolan.org/vlc/index.html) - open source multimedia and video player. 
 - [Writer Pro](http://writer.pro/) - is a minimalist notetaking and distraction free writing tool. 
@@ -38,6 +39,7 @@ Curated list of awesome mac apps
 - [MAMP PRO](http://www.mamp.info/en/mamp-pro/) - is a good solution for developing and testing websites on your local machine. 
 - [Sublime Text](http://www.sublimetext.com/) - is a great working text editor with lots of plugins and community support. 
 - [Tower](http://www.git-tower.com/) - is elegant and easy to use GUI for GIT. 
+- [xScope](
 
 ## Business
 
