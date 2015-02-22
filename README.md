@@ -43,5 +43,5 @@ Curated list of awesome mac apps
 
 ## Business
 
-- [Wizard](http://www.wizardmac.com/) - is a great compliment to a spreadsheet program to build predictive models and analyze data sets.
 - [PCalc](http://www.pcalc.com/) - is a scientific calculator with support for lots of complicated conversions and tasks. 
+- [Wizard](http://www.wizardmac.com/) - is a great compliment to a spreadsheet program to build predictive models and analyze data sets.
