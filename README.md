@@ -40,6 +40,7 @@ Curated list of awesome mac apps
 - [Sublime Text](http://www.sublimetext.com/) - is a great working text editor with lots of plugins and community support. 
 - [Tower](http://www.git-tower.com/) - is elegant and easy to use GUI for GIT. 
 - [xScope](http://xscopeapp.com/) - is engineered for measuring, inspecting, and fine tuning graphics.
+- [VS Code](https://code.visualstudio.com/) - excellent multipurpose IDE.
 
 ## Business
 
