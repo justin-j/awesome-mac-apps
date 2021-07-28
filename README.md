@@ -27,6 +27,8 @@ Curated list of awesome mac apps
 - [MacDropAny](http://www.zibity.com/macdropany.html) - allows you to sync local and external folders with symbolic links to services like Dropbox.
 - [SuperDuper!](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - is a great hard drive cloning and system recovery tool.
 - [Transmit](http://panic.com/transmit/) - makes transferring files between servers and cloud services an effortless process.  This is a great app for integrating with AWS. 
+- [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) - a MenuBar app to automatically audit your Mac for basic security hygiene.
+
 
 
 ## Developer Tools
