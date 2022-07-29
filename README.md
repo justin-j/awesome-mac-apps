@@ -28,7 +28,7 @@ Curated list of awesome mac apps
 - [SuperDuper!](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - is a great hard drive cloning and system recovery tool.
 - [Transmit](http://panic.com/transmit/) - makes transferring files between servers and cloud services an effortless process.  This is a great app for integrating with AWS. 
 - [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) - a MenuBar app to automatically audit your Mac for basic security hygiene.
-
+- [MenubarX](https://MenubarX.app/) - A powerful menu bar browser.
 
 
 ## Developer Tools
