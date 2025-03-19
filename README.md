@@ -46,6 +46,7 @@ Curated list of awesome mac apps
 
 ## Business
 
+- [Merlin Project](https://www.projectwizards.net/en/merlin-project) - Project Management on macOS & iOS: Gantt Charts, Kanban Boards, Mindmaps, AI Project Generation and more. 
 - [PCalc](http://www.pcalc.com/) - is a scientific calculator with support for lots of complicated conversions and tasks.
 - [Parallels](http://www.parallels.com/products/desktop/) - is a great app for running Linux or Windows virtual machines on your Mac.
 - [Wizard](http://www.wizardmac.com/) - is a great compliment to a spreadsheet program to build predictive models and analyze data sets.
