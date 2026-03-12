@@ -22,7 +22,8 @@ Curated list of awesome mac apps
 - [CleanApp](http://www.syniumsoftware.com/cleanapp/) - is essentially a disk clean up and app un-install utility. 
 - [Cocktail](http://www.maintain.se/cocktail/) - is a utility to clear cache, fix permissions, adjust settings, and optimize OS X. 
 - [Divvy](http://mizage.com/divvy/) - is a nice compliment to Better Snap and it has a nice grid structure for arranging multiple windows.  
-- [ExpanDrive](http://www.expandrive.com/) - is a good way to connect to S3, Google Drive, Dropbox, Box, OneDrive etc. without installing all the standalone apps. 
+- [ExpanDrive](http://www.expandrive.com/) - is a good way to connect to S3, Google Drive, Dropbox, Box, OneDrive etc. without installing all the standalone apps.
+- [HeyRobyn](https://heyrobyn.ai) - is a native Mac unified inbox for email, Slack, and GitHub. Built with SwiftUI, fast and privacy-first with all data on-device.
 - [iStat Menus](http://bjango.com/mac/istatmenus/) - is a system monitor that lives in your menubar. Useful for monitoring network traffic and speed, hard drive and cpu status, and apps using significant energy. 
 - [MacDropAny](http://www.zibity.com/macdropany.html) - allows you to sync local and external folders with symbolic links to services like Dropbox.
 - [SuperDuper!](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - is a great hard drive cloning and system recovery tool.
