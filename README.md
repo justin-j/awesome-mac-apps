@@ -41,6 +41,7 @@ Curated list of awesome mac apps
 - [MAMP PRO](http://www.mamp.info/en/mamp-pro/) - is a good solution for developing and testing websites on your local machine. 
 - [Sublime Text](http://www.sublimetext.com/) - is a great working text editor with lots of plugins and community support. 
 - [Tower](http://www.git-tower.com/) - is elegant and easy to use GUI for GIT. 
+- [Terminal Workspace](https://github.com/EvanAI0331/terminal-workspace) - open-source multi-project terminal workspace for local development stacks.
 - [xScope](http://xscopeapp.com/) - is engineered for measuring, inspecting, and fine tuning graphics.
 - [VS Code](https://code.visualstudio.com/) - excellent multipurpose IDE.
 
