@@ -46,6 +46,7 @@ Curated list of awesome mac apps
 
 ## Business
 
+- [Orkas](https://orkas.ai/?source=gh_justinj) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 - [PCalc](http://www.pcalc.com/) - is a scientific calculator with support for lots of complicated conversions and tasks.
 - [Parallels](http://www.parallels.com/products/desktop/) - is a great app for running Linux or Windows virtual machines on your Mac.
 - [Wizard](http://www.wizardmac.com/) - is a great compliment to a spreadsheet program to build predictive models and analyze data sets.
