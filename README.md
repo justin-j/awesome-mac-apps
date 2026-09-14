@@ -7,6 +7,7 @@ Curated list of awesome mac apps
 - [Camtasia](http://www.techsmith.com/camtasia.html) - is a screen recorder with some light duty video editing tools. 
 - [Fission](http://rogueamoeba.com/fission/) - lossless audio editing. 
 - [Mindnode](http://mindnode.com/) - is a great way to visualize ideas and brainstorm.  A good way to connect the dots.
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - MIT-licensed, local-first CLI and MCP toolkit for coding agents to compose and edit videos from editable plan.json timelines.
 - [PageLayers](http://www.pagelayers.com/) - is an app that will take a webpage and convert it into a layered PSD file.
 - [Sketch](http://www.bohemiancoding.com/sketch/) - lightweight web mock-up tool. 
 - [VLC](http://www.videolan.org/vlc/index.html) - open source multimedia and video player. 
