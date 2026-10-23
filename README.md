@@ -19,7 +19,8 @@ Curated list of awesome mac apps
 - [A Better Finder Rename](http://www.publicspace.net/BetterRename/) - is a great way to mass rename files based on predetermined sorting and filtering, as well as complex regular expressions. 
 - [Better Snap Tool](http://blog.boastr.net/) - allows you to quickly resize windows with hotkeys. 
 - [ChronoSync](http://www.econtechnologies.com/chronosync/overview.html) - commercial grade file sync.  ChronoSync is a nice GUI with some added features on rsync. 
-- [CleanApp](http://www.syniumsoftware.com/cleanapp/) - is essentially a disk clean up and app un-install utility. 
+- [CleanApp](http://www.syniumsoftware.com/cleanapp/) - is essentially a disk clean up and app un-install utility.
+- [MacClean](https://thulem.com/) - Native macOS cleaner for WeChat/QQ/WeCom media, Xcode & local AI caches, and Storage Map clutter. Freemium; Lifetime ¥98 (not notarized). 
 - [Cocktail](http://www.maintain.se/cocktail/) - is a utility to clear cache, fix permissions, adjust settings, and optimize OS X. 
 - [Divvy](http://mizage.com/divvy/) - is a nice compliment to Better Snap and it has a nice grid structure for arranging multiple windows.  
 - [ExpanDrive](http://www.expandrive.com/) - is a good way to connect to S3, Google Drive, Dropbox, Box, OneDrive etc. without installing all the standalone apps. 
