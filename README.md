@@ -15,6 +15,7 @@ Curated list of awesome mac apps
 
 
 ## Utilities
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Lightweight native macOS companion displaying Now Playing album art and titles beside the Dock.
 
 - [A Better Finder Rename](http://www.publicspace.net/BetterRename/) - is a great way to mass rename files based on predetermined sorting and filtering, as well as complex regular expressions. 
 - [Better Snap Tool](http://blog.boastr.net/) - allows you to quickly resize windows with hotkeys. 
