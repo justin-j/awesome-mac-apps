@@ -21,6 +21,7 @@ Curated list of awesome mac apps
 - [ChronoSync](http://www.econtechnologies.com/chronosync/overview.html) - commercial grade file sync.  ChronoSync is a nice GUI with some added features on rsync. 
 - [CleanApp](http://www.syniumsoftware.com/cleanapp/) - is essentially a disk clean up and app un-install utility. 
 - [Cocktail](http://www.maintain.se/cocktail/) - is a utility to clear cache, fix permissions, adjust settings, and optimize OS X. 
+- [QuickRight](https://apps.apple.com/us/app/quickright/id6763963598?mt=12) - adds New File and other file actions to the Finder right-click menu: create files from templates, cut and move, copy path, open a terminal in the current folder.
 - [Divvy](http://mizage.com/divvy/) - is a nice compliment to Better Snap and it has a nice grid structure for arranging multiple windows.  
 - [ExpanDrive](http://www.expandrive.com/) - is a good way to connect to S3, Google Drive, Dropbox, Box, OneDrive etc. without installing all the standalone apps. 
 - [iStat Menus](http://bjango.com/mac/istatmenus/) - is a system monitor that lives in your menubar. Useful for monitoring network traffic and speed, hard drive and cpu status, and apps using significant energy. 
